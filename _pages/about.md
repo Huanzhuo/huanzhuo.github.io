@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am Huanzhuo Wu, a Ph.D. researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
 My particular research interest is In-Network Computing, Software Defined Networks (SDN), Algorithm Optimization, and Blind Source Separation (BSS), with more than 20 peer-reviewed <a href="/publications/">publications</a>.
-My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising student</a>s of the faculty.
+My current work includes contributing to research projects, and <a href="/teaching/">teaching/supervising student</a>s of the faculty.
 
 I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
 During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi China in 2016. 
@@ -57,7 +57,7 @@ In addition to this website, my coding projects and publications can also be fou
           <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center
             <ul>
               <li>Creating project proposal, including research subjects, work plan, manpower and budget plan</li>
-              <li>Coordinating with the industrial partner</li>
+              <li>Coordinating with industrial partner</li>
               <li>Managing research progress, research/student assistant, outcome presentation</li>
               <li>Communicating and reporting to Projektträger</li>
               <li>Training in leadership and management</li>
@@ -178,6 +178,6 @@ In addition to this website, my coding projects and publications can also be fou
 <ul>
   <li>Reviewer IEEE Transactions on Very Large Scale Integration Systems</li>
   <li>Reviewer IEEE European Wireless 2021</li>
-  <li>Reviewer IEEE Globecom 2020</li>
+  <li>Reviewer IEEE GlobeCom 2020</li>
 </ul>
 </div>
