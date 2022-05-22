@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   address: 
     <p>Huanzhuo Wu</p>
-    <p>wuhuanzhuo@gmail.com</p>
     <p>Dresden, Germany</p>
     <p>
       <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>
@@ -25,33 +24,133 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Huanzhuo Wu, a Ph.D. researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
-My work includes contributing to research projects, teaching, and supervising students of the faculty. 
-My particular research interest is In-Network Computing, Software Defined Network (SDN), Algorithm Optimization, and Blind Source Separation (BSS).
+My particular research interest is In-Network Computing, Software Defined Network (SDN), Algorithm Optimization, and Blind Source Separation (BSS) with more than 20 peer-reviewed <a href="/publications/">publications</a>.
+My current work includes contributing to <a href="/projects/">research projects</a>, <a href="/teaching/">teaching and supervising student</a>s of the faculty.
+
+I hold a Master of Science in Computer Science at TU Dresden with honors. 
+During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi AG in 2016. 
+In 2011, I received my Bachelor degree in Engineering in Computer Science from Chang’an University, China.
+
+<br>
+<br>
 
 <div class="news">
 <h2>Work Experience</h2>
-From 2017 to 2020, I worked on a research project named 5Gang, together with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners.
-Starting 2021, I am the lead of the research project with the name of Software Campus NetBliSS, in cooperation with Huawei Munich Research Center.
-Both projects are funded by the Federal Ministry of Education and Research Germany (BMBF). 
+<ul>
+  <li>Junior Researcher at TU Dresden</li>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        <tr>
+          <th scope="row">May, 2022 to present</th>
+          <td>Contributing to 6G-life project with TU Munich</td>
+        </tr>
+        <tr>
+          <th scope="row">June, 2021 to present</th>
+          <td>Contributing to Hexa-X project</td>
+        </tr>
+        <tr>
+          <th scope="row">March, 2021 to present</th>
+          <td>I am the lead of the research project with the name of Software Campus NetBliSS, in cooperation with Huawei Munich Research Center.</td>
+        </tr>
+        <tr>
+          <th scope="row">March, 2017 to November, 2020</th>
+          <td> I worked on a research project named 5Gang, together with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners.</td>
+        </tr>
+        <tr>
+          <th scope="row">March, 2017 to December, 2020</th>
+          <td> Contributing to FastRobotics project</td>
+        </tr>
+      </table>
+    </div>
+  <li>Intern at Audi China</li>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        <tr>
+          <th scope="row">August, 2016 to November, 2016</th>
+          <td>IT Project Support: Management and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project); Enterprise-university cooperation.</td>
+        </tr>
+      </table>
+    </div>
+  <li>Intern at BMW AG</li>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        <tr>
+          <th scope="row">May, 2015 to October, 2015</th>
+          <td>Quality Management: Supporting SAP solution in production plant; Optimizing and updating the quality management metamodel; Creating quality reports.</td>
+        </tr>
+      </table>
+    </div>
+</ul>
 </div>
 
+<br>
 <div class="news">
-<h2>Review/TPC member service</h2>
-IEEE Transactions on Very Large Scale Integration Systems <br>
-Reviewer IEEE European Wireless 2021<br>
-Reviewer IEEE Globecom 2020<br>
+<h2>Award</h2>
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row">June, 2020</th>
+        <td>100k € grant by the Federal Ministry of Education and Research Germany (BMBF) in the frame of Software Campus</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
+<br>
 <div class="news">
-<h2>Talks and Demos</h2>
-IEEE Transactions on Very Large Scale Integration Systems <br>
-Reviewer IEEE European Wireless 2021<br>
-Reviewer IEEE Globecom 2020<br>
+<h2>Activaties</h2>
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row">Janurary, 2022</th>
+        <td>Demo Exhibator on IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, USA, virtual</td>
+      </tr>
+      <tr>
+        <th scope="row">December, 2021</th>
+        <td>Presentation on IEEE Global Communications Conference (GlobeCom), Madrid, Spain</td>
+      </tr>
+      <tr>
+        <th scope="row">May, 2021</th>
+        <td>Presentation on IEEE International Conference on Communications (ICC), Montreal, Canada, virtual</td>
+      </tr>
+      <tr>
+        <th scope="row">December, 2020</th>
+        <td>Presentation on IEEE Global Communications Conference (GlobeCom), Taipei, Taiwan, virtual</td>
+      </tr>
+      <tr>
+        <th scope="row">May, 2020</th>
+        <td>Presentation on IEEE International Conference on Communications (ICC), Dublin, Ireland, virtual</td>
+      </tr>
+      <tr>
+        <th scope="row">September, 2019</th>
+        <td>Presentation on IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Zaragoza, Spain</td>
+      </tr>
+      <tr>
+        <th scope="row">Janurary, 2019</th>
+        <td>Demo Exhibator on IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, USA, virtual</td>
+      </tr>
+      <tr>
+        <th scope="row">Janurary, 2019</th>
+        <td>Demo Exhibator on Consumer Electronics Show (CES), Las Vegas, USA, virtual</td>
+      </tr>
+      <tr>
+        <th scope="row">September, 2018</th>
+        <td>Demo Exhibator on IEEE 5G Summit, Dresden, Germany</td>
+      </tr>
+      <tr>
+        <th scope="row">April, 2018</th>
+        <td>Demo Exhibator on Hannover Messe, Hannover, Germany</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
+<br>
 <div class="news">
-<h2>Education</h2>
-I hold a Master of Science in Computer Science at TU Dresden with honors. 
-During my studies, I worked as a student assistant and completed internships at BMW AG in 2015 and Audi AG in 2016. 
-I received my Bachelor degree in Engineering with honors in Computer Science in 2011 from Chang’an University, China.
+<h2>Review/TPC Service</h2>
+<ul>
+  <li>Reviewer IEEE Transactions on Very Large Scale Integration Systems</li>
+  <li>Reviewer IEEE European Wireless 2021</li>
+  <li>Reviewer IEEE Globecom 2020</li>
+</ul>
 </div>
