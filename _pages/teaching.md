@@ -11,7 +11,7 @@ nav_order: 3
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
             <tr>
-                <th scope="row">Summer Semester, 2022</th>
+                <th scope="row">Summer Semester 2022</th>
                 <td>
                     <ul>
                         <li>Teaching Assistant of Cooperative Communication Systems</li>
@@ -19,7 +19,7 @@ nav_order: 3
                 </td>
             </tr>
             <tr>
-                <th scope="row">Winter Semester, 2021</th>
+                <th scope="row">Winter Semester 2021</th>
                 <td>
                     <ul>
                         <li>Supervisor of Diplom thesis "Streaming Data Management for COIN-enabled Blind Source Separation"</li>
@@ -30,7 +30,7 @@ nav_order: 3
                 </td>
             </tr>
             <tr>
-                <th scope="row">Summer Semester, 2021</th>
+                <th scope="row">Summer Semester 2021</th>
                 <td>
                     <ul>
                         <li>Teaching Assistant of Cooperative Communication Systems</li>
@@ -39,7 +39,7 @@ nav_order: 3
                 </td>
             </tr>
             <tr>
-                <th scope="row">Winter Semester, 2020</th>
+                <th scope="row">Winter Semester 2020</th>
                 <td>
                     <ul>
                         <li>Supervisor of Diplom thesis "Information Abstraction for Big Data Analysis: A Case Study of Multi-object Acoustic Anomaly Detection"</li>
@@ -49,7 +49,7 @@ nav_order: 3
                 </td>
             </tr>
             <tr>
-                <th scope="row">Winter Semester, 2019</th>
+                <th scope="row">Winter Semester 2019</th>
                 <td>
                     <ul>
                         <li>Teaching Assistant of Oberseminar Kommunikationsnetze</li>
@@ -59,7 +59,7 @@ nav_order: 3
                 </td>
             </tr>
             <tr>
-                <th scope="row">Winter Semester, 2018</th>
+                <th scope="row">Winter Semester 2018</th>
                 <td>
                     <ul>
                         <li>Teaching Assistant of Oberseminar Kommunikationsnetze</li>
@@ -69,7 +69,7 @@ nav_order: 3
                 </td>
             </tr>
             <tr>
-                <th scope="row">Winter Semester, 2017</th>
+                <th scope="row">Winter Semester 2017</th>
                 <td>
                     <ul>
                         <li>Teaching Assistant of Oberseminar Kommunikationsnetze</li>
