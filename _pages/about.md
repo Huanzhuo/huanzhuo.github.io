@@ -42,23 +42,23 @@ In 2011, I received my Bachelor degree in Engineering in Computer Science from C
       <table class="table table-sm table-borderless">
         <tr>
           <th scope="row">May, 2022 to present</th>
-          <td>Contributing to 6G-life project with TU Munich</td>
+          <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling system with In-network Computing, in cooperation with TU Munich</td>
         </tr>
         <tr>
           <th scope="row">June, 2021 to present</th>
-          <td>Contributing to Hexa-X project</td>
+          <td>Contributing to the European Commision funded project <a href="https://6g-life.de/">Hexa-X</a> on integrating AI into networks, in cooperation with Nokia, Ericsson, and other key partners</td>
         </tr>
         <tr>
           <th scope="row">March, 2021 to present</th>
-          <td>I am the lead of the research project with the name of Software Campus NetBliSS, in cooperation with Huawei Munich Research Center.</td>
+          <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensertive industrial applications, in cooperation with Huawei Munich Research Center</td>
         </tr>
         <tr>
           <th scope="row">March, 2017 to November, 2020</th>
-          <td> I worked on a research project named 5Gang, together with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners.</td>
+          <td>Responsible for the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/5gang">5Gang</a> on utilizing 5G in the industry, in cooperation with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners</td>
         </tr>
         <tr>
           <th scope="row">March, 2017 to December, 2020</th>
-          <td> Contributing to FastRobotics project</td>
+          <td>Contributing to the BMBF funded project <a href="https://de.fast-zwanzig20.de/industrie/fast-robotics/">FastRobotics</a> on Digital Twins, in cooperation with Kuka, Fraunhofer IFF, and other key partners</td>
         </tr>
       </table>
     </div>
@@ -90,7 +90,7 @@ In 2011, I received my Bachelor degree in Engineering in Computer Science from C
     <table class="table table-sm table-borderless">
       <tr>
         <th scope="row">June, 2020</th>
-        <td>100k € grant by the Federal Ministry of Education and Research Germany (BMBF) in the frame of Software Campus</td>
+        <td>100k € grant by the Federal Ministry of Education and Research Germany (BMBF) in the frame of <a href="https://softwarecampus.de/en/">Software Campus</a></td>
       </tr>
     </table>
   </div>
