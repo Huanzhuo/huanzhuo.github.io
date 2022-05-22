@@ -24,12 +24,12 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Huanzhuo Wu, a Ph.D. researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
-My particular research interest is In-Network Computing, Software Defined Network (SDN), Algorithm Optimization, and Blind Source Separation (BSS) with more than 20 peer-reviewed <a href="/publications/">publications</a>.
-My current work includes contributing to <a href="/projects/">research projects</a>, <a href="/teaching/">teaching and supervising student</a>s of the faculty.
+My particular research interest is In-Network Computing, Software Defined Networks (SDN), Algorithm Optimization, and Blind Source Separation (BSS), with more than 20 peer-reviewed <a href="/publications/">publications</a>.
+My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising student</a>s of the faculty.
 
 I hold a Master of Science in Computer Science at TU Dresden with honors. 
 During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi AG in 2016. 
-In 2011, I received my Bachelor degree in Engineering in Computer Science from Chang’an University, China.
+In 2011, I received my Bachelor's degree in Computer Science from Chang'an University, China.
 
 <br>
 <br>
@@ -41,23 +41,23 @@ In 2011, I received my Bachelor degree in Engineering in Computer Science from C
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <th scope="row">May, 2022 to present</th>
-          <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling system with In-network Computing, in cooperation with TU Munich</td>
+          <th scope="row">May 2022 to present</th>
+          <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling systems with In-network Computing, in cooperation with TU Munich</td>
         </tr>
         <tr>
-          <th scope="row">June, 2021 to present</th>
-          <td>Contributing to the European Commision funded project <a href="https://6g-life.de/">Hexa-X</a> on integrating AI into networks, in cooperation with Nokia, Ericsson, and other key partners</td>
+          <th scope="row">June 2021 to present</th>
+          <td>Contributing to the European Commission funded project <a href="https://hexa-x.eu/">Hexa-X</a> on integrating AI into networks, in cooperation with Nokia, Ericsson, and other key partners</td>
         </tr>
         <tr>
-          <th scope="row">March, 2021 to present</th>
-          <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensertive industrial applications, in cooperation with Huawei Munich Research Center</td>
+          <th scope="row">March 2021 to present</th>
+          <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center</td>
         </tr>
         <tr>
-          <th scope="row">March, 2017 to November, 2020</th>
+          <th scope="row">March 2017 to November 2020</th>
           <td>Responsible for the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/5gang">5Gang</a> on utilizing 5G in the industry, in cooperation with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners</td>
         </tr>
         <tr>
-          <th scope="row">March, 2017 to December, 2020</th>
+          <th scope="row">March 2017 to December 2020</th>
           <td>Contributing to the BMBF funded project <a href="https://de.fast-zwanzig20.de/industrie/fast-robotics/">FastRobotics</a> on Digital Twins, in cooperation with Kuka, Fraunhofer IFF, and other key partners</td>
         </tr>
       </table>
@@ -66,8 +66,8 @@ In 2011, I received my Bachelor degree in Engineering in Computer Science from C
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <th scope="row">August, 2016 to November, 2016</th>
-          <td>IT Project Support: Management and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project); Enterprise-university cooperation.</td>
+          <th scope="row">August 2016 to November 2016</th>
+          <td>Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project); Supporting enterprise-university cooperation</td>
         </tr>
       </table>
     </div>
@@ -75,8 +75,8 @@ In 2011, I received my Bachelor degree in Engineering in Computer Science from C
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <th scope="row">May, 2015 to October, 2015</th>
-          <td>Quality Management: Supporting SAP solution in production plant; Optimizing and updating the quality management metamodel; Creating quality reports.</td>
+          <th scope="row">May 2015 to October 2015</th>
+          <td>Quality management by supporting SAP solution in production plant; Optimizing and updating the quality management metamodel; Creating quality reports</td>
         </tr>
       </table>
     </div>
@@ -127,11 +127,11 @@ In 2011, I received my Bachelor degree in Engineering in Computer Science from C
       </tr>
       <tr>
         <th scope="row">Janurary, 2019</th>
-        <td>Demo Exhibator on IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, USA, virtual</td>
+        <td>Demo Exhibator on IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, USA</td>
       </tr>
       <tr>
         <th scope="row">Janurary, 2019</th>
-        <td>Demo Exhibator on Consumer Electronics Show (CES), Las Vegas, USA, virtual</td>
+        <td>Demo Exhibator on Consumer Electronics Show (CES), Las Vegas, USA</td>
       </tr>
       <tr>
         <th scope="row">September, 2018</th>
