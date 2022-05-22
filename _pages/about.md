@@ -85,7 +85,7 @@ In 2011, I received my Bachelor's degree in Computer Science from Chang'an Unive
 
 <br>
 <div class="news">
-<h2>Award</h2>
+<h2>Funding</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
@@ -98,7 +98,7 @@ In 2011, I received my Bachelor's degree in Computer Science from Chang'an Unive
 
 <br>
 <div class="news">
-<h2>Activaties</h2>
+<h2>Activities</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
