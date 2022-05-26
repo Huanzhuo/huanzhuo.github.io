@@ -32,12 +32,29 @@ In 2011, I received my Bachelor's degree in Computer Science from Chang'an Unive
 In addition to this website, my coding projects and publications can also be found on  <a href="https://github.com/huanzhuo">Github<i class="fab fa-github"></i></a> and <a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar<i class="ai ai-google-scholar"></i></a>, and I am available for contact via <a href="mailto:wuhuanzhuo@gmail.com">email<i class="fas fa-envelope"></i></a> and on <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn<i class="fab fa-linkedin"></i></a>.
 
 <br>
-<br>
-
 <div class="news">
 <h2>Work Experience</h2>
-<ul>
-  <li>Junior Researcher at TU Dresden</li>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        <tr>
+          <th scope="row">Feburary 2017 to present</th>
+          <td>Junior Researcher at TU Dresden</td>
+        </tr>
+        <tr>
+          <th scope="row">August 2016 to November 2016</th>
+          <td>Intern at Audi China: Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project); Supporting enterprise-university cooperation</td>
+        </tr>
+        <tr>
+          <th scope="row">May 2015 to October 2015</th>
+          <td>Intern at BMW AG: Quality management by supporting SAP solution in production plant; Optimizing and updating the quality management metamodel; Creating quality reports</td>
+        </tr>
+      </table>
+    </div>
+</div>
+
+<br>
+<div class="news">
+<h2>Project Experience</h2>
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
@@ -81,25 +98,6 @@ In addition to this website, my coding projects and publications can also be fou
         </tr>
       </table>
     </div>
-  <li>Intern at Audi China</li>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        <tr>
-          <th scope="row">August 2016 to November 2016</th>
-          <td>Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project); Supporting enterprise-university cooperation</td>
-        </tr>
-      </table>
-    </div>
-  <li>Intern at BMW AG</li>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        <tr>
-          <th scope="row">May 2015 to October 2015</th>
-          <td>Quality management by supporting SAP solution in production plant; Optimizing and updating the quality management metamodel; Creating quality reports</td>
-        </tr>
-      </table>
-    </div>
-</ul>
 </div>
 
 <br>
