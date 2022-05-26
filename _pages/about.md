@@ -108,6 +108,10 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
+        <th scope="row">May 2022</th>
+        <td>800k € grant for Wissentransfer from the Federal Ministry of Economics and Technology Germany (BMWK) in the frame of <a href="https://www.bmwk.de/Navigation/DE/Themen/themen.html?cl2Categories_LeadKeyword=exist">Exist</a></td>
+      </tr>
+      <tr>
         <th scope="row">June 2020</th>
         <td>100k € grant for IT-Talant from the Federal Ministry of Education and Research Germany (BMBF) in the frame of <a href="https://softwarecampus.de/en/">Software Campus</a></td>
       </tr>
