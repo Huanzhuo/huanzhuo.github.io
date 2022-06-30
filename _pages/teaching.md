@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Teaching activities during my Junior Researcher period.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <div class="news">

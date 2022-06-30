@@ -4,7 +4,9 @@ title: Vitae
 permalink: /cv/
 description: Here to download my CV.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
-Test: you can [get the PDF](/assets/pdf/example_pdf.pdf) directly.
+![QR-code to access this website](/assets/img/qr-code.png){: width="250" }
+
+Get the QR in [pdf](/assets/pdf/qr-code.pdf) or [png](/assets/img/qr-code.png) to access this website.

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Researcher at ComNets Chair of TU Dresden, Germany
+subtitle: Junior Researcher at ComNets Chair of TU Dresden, Germany
 
 profile:
   align: right
@@ -22,8 +22,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Huanzhuo Wu, a Ph.D. researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
-My particular research interest is In-Network Computing, Software Defined Networks (SDN), Algorithm Optimization, and Blind Source Separation (BSS), with more than 20 peer-reviewed <a href="/publications/">publications</a>.
-My current work includes contributing to research projects, and <a href="/teaching/">teaching/supervising student</a>s of the faculty.
+My particular research interest is In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a> and several <a href="/projects/">research projects</a>.
+<!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
 I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
 During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi China in 2016. 
@@ -35,68 +35,82 @@ In addition to this website, my coding projects and publications can also be fou
 <br>
 <div class="news">
 <h2>Work Experience</h2>
-<i>Junior Researcher at TU Dresden</i>
 <div class="table-responsive">
   <table class="table table-sm table-borderless">
     <tr>
-      <th scope="row">May 2022 to present</th>
-      <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling systems with In-network Computing, in cooperation with TU Munich
+      <th scope="row">February 2017 to present</th>
+      <td>Junior Researcher at TU Dresden
         <ul>
-          <li>Coordinating research agenda with partners, including research topics and publication plans</li>
+          <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>
+          <li>Conducting research on In-network Computing and Industrial 5G, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
+          <li>Applying for funding on research projects and research marketization</li>
+          <li>Teaching and supervising students, more details can be found on the page of <a href="/teaching/">Teaching</a></li>
         </ul>
       </td>
     </tr>
-    <tr>
-      <th scope="row">June 2021 to present</th>
-      <td>Contributing to the European Commission funded project <a href="https://hexa-x.eu/">Hexa-X</a> on integrating AI into networks, in cooperation with Nokia, Ericsson, and other key partners</td>
-    </tr>
-    <tr>
-      <th scope="row">March 2021 to present</th>
-      <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center
-        <ul>
-          <li>Creating project proposal, including research subjects, work plan, manpower and budget plan</li>
-          <li>Coordinating with industrial partner</li>
-          <li>Managing research progress, research/student assistant, outcome presentation</li>
-          <li>Communicating and reporting to Projektträger</li>
-          <li>Training in leadership and management</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">March 2017 to November 2020</th>
-      <td>Responsible for the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/5gang">5Gang</a> on utilizing 5G in the industry, in cooperation with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners
-        <ul>
-          <li>Collaborating with the industrial partners</li>
-          <li>Presenting project results on international events, e.g., conferences and exhibations</li>
-          <li>Communicating and reporting to Projektträger</li>
-          <li>Organizing and participating in workshops</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">March 2017 to December 2020</th>
-      <td>Contributing to the BMBF funded project <a href="https://de.fast-zwanzig20.de/industrie/fast-robotics/">FastRobotics</a> on Digital Twins, in cooperation with Kuka, Fraunhofer IFF, and other key partners</td>
-    </tr>
-  </table>
-</div>
-<i>Intern at Audi China</i>
-<div class="table-responsive">
-  <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">August 2016 to November 2016</th>
-      <td>Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project); Supporting enterprise-university cooperation</td>
+      <td>Intern at Audi China
+        <ul>
+          <li>Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project)</li>
+          <li>Supporting enterprise-university cooperation</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">May 2015 to October 2015</th>
+      <td>Intern at BMW AG
+        <ul>
+          <li>Quality management by supporting SAP solution in production plant</li>
+          <li>Optimizing and updating the quality management metamodel</li>
+          <li>Creating quality reports</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </div>
-<i>Intern at BMW AG</i>
+
+<br>
+<div class="news">
+<h2>Education Experience</h2>
 <div class="table-responsive">
   <table class="table table-sm table-borderless">
     <tr>
-      <th scope="row">May 2015 to October 2015</th>
-      <td>Quality management by supporting SAP solution in production plant; Optimizing and updating the quality management metamodel; Creating quality reports</td>
+      <th scope="row">February 2017 to present</th>
+      <td>Ph.D. in Electrical Engineering at TU Dresden, Germany
+        <ul>
+          <li>Toic: In-network Audio Processing for Low-latency Industrial Applications</li>
+          <li>Grad Year: Expected mid-2022</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">April 2012 to December 2016</th>
+      <td>Master of Science in Compute Science at TU Dresden, Germany
+        <ul>
+          <li>Master Thesis: Regenerating Codes</li>
+          <li>Thesis Grade: 1.3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">August 2011 to March 2022</th>
+      <td>German Language Course at TUDIAS, Germany
+        <ul>
+          <li>MFinal Grade: DSH 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">September 2007 to July 2011</th>
+      <td>Bachelor of Science in Compute Engineering at Chang'an University, China
+        <ul>
+          <li>Bachelor Thesis: Wireless Sensor Network</li>
+          <li>Final Grade: A</li>
+        </ul>
+      </td>
     </tr>
   </table>
-</div>
 </div>
 
 <br>
@@ -111,67 +125,6 @@ In addition to this website, my coding projects and publications can also be fou
       <tr>
         <th scope="row">June 2020</th>
         <td>100k € grant for IT-Talant from the Federal Ministry of Education and Research Germany (BMBF) in the frame of <a href="https://softwarecampus.de/en/">Software Campus</a></td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<br>
-<div class="news">
-<h2>Activities</h2>
-<div class="table-responsive">
-    <table class="table table-sm table-borderless">
-      <tr>
-        <th scope="row">June 2022</th>
-        <td>Presentation on IEEE Mediterranean Electrotechnical Conference (Melecon), Palermo, Italy</td>
-      </tr>
-      <tr>
-        <th scope="row">May 2022</th>
-        <td>Releasing the in-network audio separation emulator <a href="https://github.com/Huanzhuo/pICA-emu">pICA-Emu</a> on Github</td>
-      </tr>
-      <tr>
-        <th scope="row">January 2022</th>
-        <td>Demo Exhibator on IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, USA, virtual</td>
-      </tr>
-      <tr>
-        <th scope="row">December 2021</th>
-        <td>Presentation on IEEE Global Communications Conference (GlobeCom), Madrid, Spain</td>
-      </tr>
-      <tr>
-        <th scope="row">May 2021</th>
-        <td>Presentation on IEEE International Conference on Communications (ICC), Montreal, Canada, virtual</td>
-      </tr>
-      <tr>
-        <th scope="row">December 2020</th>
-        <td>Presentation on IEEE Global Communications Conference (GlobeCom), Taipei, Taiwan, virtual</td>
-      </tr>
-      <tr>
-        <th scope="row">May 2020</th>
-        <td>Presentation on IEEE International Conference on Communications (ICC), Dublin, Ireland, virtual</td>
-      </tr>
-      <tr>
-        <th scope="row">December 2019</th>
-        <td>Contributing to the Network Slicing part of the NFV/SDN emulator <a href="https://stevelorenz.github.io/comnetsemu/">ComNetsEmu</a></td>
-      </tr>
-      <tr>
-        <th scope="row">September 2019</th>
-        <td>Presentation on IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Zaragoza, Spain</td>
-      </tr>
-      <tr>
-        <th scope="row">January 2019</th>
-        <td>Demo Exhibator on IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, USA</td>
-      </tr>
-      <tr>
-        <th scope="row">January 2019</th>
-        <td>Demo Exhibator on Consumer Electronics Show (CES), Las Vegas, USA</td>
-      </tr>
-      <tr>
-        <th scope="row">September 2018</th>
-        <td>Demo Exhibator on IEEE 5G Summit, Dresden, Germany</td>
-      </tr>
-      <tr>
-        <th scope="row">April 2018</th>
-        <td>Demo Exhibator on Hannover Messe, Hannover, Germany</td>
       </tr>
     </table>
   </div>
