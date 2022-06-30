@@ -122,6 +122,10 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
+        <th scope="row">June 2022</th>
+        <td>Presentation on IEEE Mediterranean Electrotechnical Conference (Melecon), Palermo, Italy</td>
+      </tr>
+      <tr>
         <th scope="row">May 2022</th>
         <td>Releasing the in-network audio separation emulator <a href="https://github.com/Huanzhuo/pICA-emu">pICA-Emu</a> on Github</td>
       </tr>
@@ -177,6 +181,8 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
+  <li>Reviewer IEEE Internet of Things Journal</li>
+  <li>Reviewer International Conference on Networks, Communication and Information Technology</li>
   <li>Reviewer IEEE Transactions on Very Large Scale Integration Systems</li>
   <li>Reviewer IEEE European Wireless 2021</li>
   <li>Reviewer IEEE GlobeCom 2020</li>
