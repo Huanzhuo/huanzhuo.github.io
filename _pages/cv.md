@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-![QR-code to access this website](/assets/img/qr-code.png){: width="250" }
+<!-- ![CV of Huanzhuo Wu](/assets/pdf/CV_huanzhuowu.pdf){: width="250" } -->
 
-Get the QR in [pdf](/assets/pdf/qr-code.pdf) or [png](/assets/img/qr-code.png) to access this website.
+Get my [Curriculum Vitae](/assets/pdf/CV_huanzhuowu.pdf) in PDF format.
+
+<object data="/assets/pdf/CV_huanzhuowu.pdf" width="1000" height="1000" type='application/pdf'></object>

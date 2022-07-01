@@ -94,7 +94,7 @@ In addition to this website, my coding projects and publications can also be fou
       </td>
     </tr>
     <tr>
-      <th scope="row">August 2011 to March 2022</th>
+      <th scope="row">August 2011 to March 2012</th>
       <td>German Language Course at TUDIAS, Germany
         <ul>
           <li>Final Grade: DSH 2</li>
