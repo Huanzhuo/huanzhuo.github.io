@@ -41,7 +41,7 @@ horizontal: false
                 <td>Responsible for the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/5gang">5Gang</a> on utilizing 5G in the industry, in cooperation with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners
                     <ul>
                     <li>Collaborating with the industrial partners</li>
-                    <li>Presenting project results on international events, e.g., conferences and exhibations</li>
+                    <li>Presenting project results on international events, e.g., conferences and exhibitions</li>
                     <li>Communicating and reporting to Projektträger</li>
                     <li>Organizing and participating in workshops</li>
                     </ul>
