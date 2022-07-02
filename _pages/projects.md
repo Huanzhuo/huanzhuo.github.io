@@ -28,9 +28,9 @@ horizontal: false
                 <th scope="row">March 2021 to present</th>
                 <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center
                     <ul>
-                    <li>Creating project proposal, including research subjects, work plan, manpower and budget plan</li>
-                    <li>Coordinating with industrial partner</li>
-                    <li>Managing research progress, research/student assistant, outcome presentation</li>
+                    <li>Creating project proposal, including research subjects, work plan, manpower, and budget plan</li>
+                    <li>Coordinating with the industrial partner</li>
+                    <li>Managing research progress, research/student assistant, outcome presentation on international events</li>
                     <li>Communicating and reporting to Projektträger</li>
                     <li>Training in leadership and management</li>
                     </ul>
@@ -42,6 +42,7 @@ horizontal: false
                     <ul>
                     <li>Collaborating with the industrial partners</li>
                     <li>Presenting project results on international events, e.g., conferences and exhibitions</li>
+                    <li>Managing research progress, research/student assistant</li>
                     <li>Communicating and reporting to Projektträger</li>
                     <li>Organizing and participating in workshops</li>
                     </ul>

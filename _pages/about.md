@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Huanzhuo Wu, a Ph.D. researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
+I am Huanzhuo Wu, a Junior researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
 My particular research interest is In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a> and several <a href="/projects/">research projects</a>.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
@@ -43,14 +43,14 @@ In addition to this website, my coding projects and publications can also be fou
         <ul>
           <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>
           <li>Conducting research on In-network Computing and Industrial 5G, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
-          <li>Applying for funding on research projects and research marketization</li>
+          <li>Applying for funding on research projects</li>
           <li>Teaching and supervising students, more details can be found on the page of <a href="/teaching/">Teaching</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <th scope="row">August 2016 to November 2016</th>
-      <td>Intern at Audi China
+      <td>IT Intern at Audi China
         <ul>
           <li>Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project)</li>
           <li>Supporting enterprise-university cooperation</li>
@@ -59,7 +59,7 @@ In addition to this website, my coding projects and publications can also be fou
     </tr>
     <tr>
       <th scope="row">May 2015 to October 2015</th>
-      <td>Intern at BMW AG
+      <td>Quality Management Intern at BMW AG
         <ul>
           <li>Quality management by supporting SAP solution in production plant</li>
           <li>Optimizing and updating the quality management metamodel</li>
@@ -80,7 +80,7 @@ In addition to this website, my coding projects and publications can also be fou
       <td>Ph.D. in Electrical Engineering at TU Dresden, Germany
         <ul>
           <li>Topic: In-network Audio Processing for Low-latency Industrial Applications</li>
-          <li>Grad Year: Expected mid-2022</li>
+          <li>Grad Year: Expected Q3 2022</li>
         </ul>
       </td>
     </tr>
