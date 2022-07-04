@@ -43,7 +43,7 @@ In addition to this website, my coding projects and publications can also be fou
       <td>Junior Researcher at TU Dresden
         <ul>
           <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>
-          <li>Conducting research on In-network Computing and Industrial 5G, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
+          <li>Conducting research on In-network Computing and Industrial 5G using scikit-learn, PyTorch, Mininet, Ryu SDN Framework, and Open vSwitch, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
           <li>Applying for funding on research projects</li>
           <li>Teaching and supervising students, more details can be found on the page of <a href="/teaching/">Teaching</a></li>
         </ul>
@@ -53,7 +53,7 @@ In addition to this website, my coding projects and publications can also be fou
       <th scope="row">August 2016 to November 2016</th>
       <td>IT Intern at Audi China
         <ul>
-          <li>Managing and supporting projects related to digitization (Audi Connect, App Center, and Cloud Project)</li>
+          <li>Managing and supporting projects related to digitalization (Audi Connect, App Center, and Cloud Project)</li>
           <li>Supporting enterprise-university cooperation</li>
         </ul>
       </td>

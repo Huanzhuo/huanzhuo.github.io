@@ -16,6 +16,7 @@ horizontal: false
                 <th scope="row">May 2022 to present</th>
                 <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling systems with In-network Computing, in cooperation with TU Munich
                     <ul>
+                    <li>Contributing to the topic on accelerating controlling systems with In-network Computing</li>
                     <li>Coordinating research agenda with partners, including research topics and publication plans</li>
                     </ul>
                 </td>
@@ -28,10 +29,10 @@ horizontal: false
                 <th scope="row">March 2021 to present</th>
                 <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center
                     <ul>
-                    <li>Creating project proposal, including research subjects, work plan, manpower, and budget plan</li>
-                    <li>Coordinating with the industrial partner</li>
-                    <li>Managing research progress, research/student assistant, outcome presentation on international events</li>
-                    <li>Communicating and reporting to Projektträger</li>
+                    <li>Creating project proposal, including research subjects, work plan, manpower, and budget</li>
+                    <li>Coordinating with the industrial partner, and communicating and reporting to Projektträger</li>
+                    <li>Presenting project results on international events, e.g., conferences and exhibitions</li>
+                    <li>Managing research progress, research/student assistant</li>
                     <li>Training in leadership and management</li>
                     </ul>
                 </td>
@@ -40,10 +41,9 @@ horizontal: false
                 <th scope="row">March 2017 to November 2020</th>
                 <td>Responsible for the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/5gang">5Gang</a> on utilizing 5G in the industry, in cooperation with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners
                     <ul>
-                    <li>Collaborating with the industrial partners</li>
+                    <li>Coordinating with industrial partners, and communicating and reporting to Projektträger</li>
                     <li>Presenting project results on international events, e.g., conferences and exhibitions</li>
                     <li>Managing research progress, research/student assistant</li>
-                    <li>Communicating and reporting to Projektträger</li>
                     <li>Organizing and participating in workshops</li>
                     </ul>
                 </td>
