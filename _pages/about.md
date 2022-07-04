@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Huanzhuo Wu, a junior researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
-My particular research interest is In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a> and several <a href="/projects/">research projects</a>.
+My particular research interests are In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a> and several <a href="/projects/">research projects</a>.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
 I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
