@@ -29,7 +29,7 @@ I hold a Master of Science in Computer Science at TU Dresden with honors in 2016
 During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi China in 2016. 
 In 2011, I received my Bachelor's degree in Computer Science from Chang'an University, China.
 
-For you to bring along with from this visit, here is my <a href="/cv/">CV</a>.
+For you to take along with from this visit, here is my <a href="/cv/">CV</a>.
 In addition to this website, my coding projects and publications can also be found on  <a href="https://github.com/huanzhuo">Github<i class="fab fa-github"></i></a> and <a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar<i class="ai ai-google-scholar"></i></a>, and I am available for contact via <a href="mailto:wuhuanzhuo@gmail.com">email<i class="fas fa-envelope"></i></a> and on <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn<i class="fab fa-linkedin"></i></a>.
 
 <br>
