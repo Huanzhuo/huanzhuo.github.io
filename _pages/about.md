@@ -135,6 +135,7 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
+  <li>Reviewer IEEE European Wireless 2022</li>
   <li>Reviewer IEEE Internet of Things Journal</li>
   <li>Reviewer International Conference on Networks, Communication and Information Technology</li>
   <li>Reviewer IEEE Transactions on Very Large Scale Integration Systems</li>
