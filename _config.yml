@@ -8,7 +8,7 @@ middle_name:
 last_name: Wu
 email: wuhuanzhuo@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The website provides an overview of Huanzhuo Wu's research activities and publications.
+  The website provides Huanzhuo Wu's research projects, publications, and activities.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

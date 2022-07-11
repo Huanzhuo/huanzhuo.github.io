@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Junior Researcher at ComNets Chair of TU Dresden, Germany
+subtitle: Researcher at ComNets Chair of TU Dresden, Germany
 
 profile:
   align: right
@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Huanzhuo Wu, a junior researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
+I am Huanzhuo Wu, a researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
 My particular research interests are In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a> and several <a href="/projects/">research projects</a>.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
@@ -40,7 +40,7 @@ In addition to this website, my coding projects and publications can also be fou
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">February 2017 to present</th>
-      <td>Junior Researcher at TU Dresden
+      <td>Researcher at TU Dresden
         <ul>
           <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>
           <li>Conducting research on In-network Computing and Industrial 5G using scikit-learn, PyTorch, Mininet, Ryu SDN Framework, and Open vSwitch, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
