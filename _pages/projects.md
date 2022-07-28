@@ -30,7 +30,7 @@ horizontal: false
                 <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center
                     <ul>
                     <li>Creating project proposal, including research subjects, work plan, manpower, and budget</li>
-                    <li>Coordinating with the industrial partner, and communicating and reporting to Projektträger</li>
+                    <li>Coordinating with the industrial partner, and communicating and reporting to Projektträger DLR</li>
                     <li>Presenting project results on international events, e.g., conferences and exhibitions</li>
                     <li>Managing research progress, research/student assistant</li>
                     <li>Training in leadership and management</li>
@@ -41,7 +41,7 @@ horizontal: false
                 <th scope="row">March 2017 to November 2020</th>
                 <td>Responsible for the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/5gang">5Gang</a> on utilizing 5G in the industry, in cooperation with Ericsson, Robert Bosch GmbH, RWTH Aachen, and other key partners
                     <ul>
-                    <li>Coordinating with industrial partners, and communicating and reporting to Projektträger</li>
+                    <li>Coordinating with industrial partners, and communicating and reporting to Projektträger VDI/VDE</li>
                     <li>Presenting project results on international events, e.g., conferences and exhibitions</li>
                     <li>Managing research progress, research/student assistant</li>
                     <li>Organizing and participating in workshops</li>

@@ -12,6 +12,10 @@ nav_order: 3
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
+        <th scope="row">May 2022</th>
+        <td>New feature of supporting ARM64 processors for <a href="https://github.com/Huanzhuo/pICA-emu">pICA-Emu</a></td>
+      </tr>
+      <tr>
         <th scope="row">June 2022</th>
         <td>Presentation on IEEE Mediterranean Electrotechnical Conference (Melecon), Palermo, Italy</td>
       </tr>
