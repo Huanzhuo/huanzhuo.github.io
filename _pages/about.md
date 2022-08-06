@@ -21,8 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Huanzhuo Wu, a researcher at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. 
-My particular research interests are In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a> and several <a href="/projects/">research projects</a>.
+I am Huanzhuo Wu, a researcher at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
+My particular research interests are In-network Computing, Software Defined Networks (SDN), Algorithm Optimization, with more than 20 peer-reviewed <a href="/publications/">publications</a>.
+In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
 I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
@@ -43,7 +44,7 @@ In addition to this website, my coding projects and publications can also be fou
       <td>Researcher at TU Dresden
         <ul>
           <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>
-          <li>Conducting research on In-network Computing and Industrial 5G using scikit-learn, PyTorch, Mininet, Ryu SDN Framework, and Open vSwitch, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
+          <li>Conducting research on In-network Computing and Industrial 5G networks using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
           <li>Applying for funding on research projects</li>
           <li>Teaching and supervising students, more details can be found on the page of <a href="/teaching/">Teaching</a></li>
         </ul>
