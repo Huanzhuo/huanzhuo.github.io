@@ -13,6 +13,15 @@ horizontal: false
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
             <tr>
+                <th scope="row">September 2022 to present</th>
+                <td>Contributing to the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/6g-anna">6G-Anna</a> on In-network Computing for 6G systems, in cooperation with Nokia, Ericsson, and other key partners
+                    <ul>
+                    <li>Contributing to the topic on In-network Computing for 6G systems</li>
+                    <li>Coordinating research agenda with partners, including research topics and publication plans</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
                 <th scope="row">May 2022 to present</th>
                 <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling systems with In-network Computing, in cooperation with TU Munich
                     <ul>
@@ -20,8 +29,8 @@ horizontal: false
                     <li>Coordinating research agenda with partners, including research topics and publication plans</li>
                     </ul>
                 </td>
-                </tr>
-                <tr>
+            </tr>
+            <tr>
                 <th scope="row">June 2021 to present</th>
                 <td>Contributing to the European Commission funded project <a href="https://hexa-x.eu/">Hexa-X</a> on integrating AI into networks, in cooperation with Nokia, Ericsson, and other key partners</td>
                 </tr>
