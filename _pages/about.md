@@ -82,7 +82,7 @@ In addition to this website, my coding projects and publications can also be fou
       <td>Ph.D. in Electrical Engineering at TU Dresden, Germany
         <ul>
           <li>Topic: In-network Audio Processing for Low-latency Industrial Applications</li>
-          <li>Grad Year: Expected Q3 2022</li>
+          <li>Grad Year: Expected October 2022</li>
         </ul>
       </td>
     </tr>

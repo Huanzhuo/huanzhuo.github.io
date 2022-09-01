@@ -17,7 +17,6 @@ horizontal: false
                 <td>Contributing to the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/6g-anna">6G-Anna</a> on In-network Computing for 6G systems, in cooperation with Nokia, Ericsson, and other key partners
                     <ul>
                     <li>Contributing to the topic on In-network Computing for 6G systems</li>
-                    <li>Coordinating research agenda with partners, including research topics and publication plans</li>
                     </ul>
                 </td>
             </tr>
