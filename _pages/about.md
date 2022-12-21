@@ -21,12 +21,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Huanzhuo Wu, a researcher at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
+My name is Huanzhuo Wu. I will start my new role at Nokia in Munich from 2023, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
 My particular research interests are In-network Computing, Software Defined Networks (SDN), and Algorithm Optimization in 5G and beyond, with more than 20 peer-reviewed <a href="/publications/">publications</a>.
 In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
-I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
+I pursued my Ph.D. in telecommunications engineering at ComNets, TU Dresden from 2017 to 2022, with a defense date currently awaited. 
+Prior to that, I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
 During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi China in 2016. 
 In 2011, I received my Bachelor's degree in Computer Science from Chang'an University, China.
 
@@ -40,7 +41,7 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="table-responsive">
   <table class="table table-sm table-borderless">
     <tr>
-      <th scope="row">February 2017 to present</th>
+      <th scope="row">February 2017 to December 2022</th>
       <td>Researcher at TU Dresden
         <ul>
           <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>

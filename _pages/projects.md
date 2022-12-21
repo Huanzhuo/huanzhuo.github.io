@@ -21,7 +21,7 @@ horizontal: false
                 </td>
             </tr>
             <tr>
-                <th scope="row">May 2022 to present</th>
+                <th scope="row">May 2022 to December 2022</th>
                 <td>Contributing to the BMBF funded project <a href="https://6g-life.de/">6G-life</a> on accelerating controlling systems with In-network Computing, in cooperation with TU Munich
                     <ul>
                     <li>Contributing to the topic on accelerating controlling systems with In-network Computing</li>
@@ -30,11 +30,11 @@ horizontal: false
                 </td>
             </tr>
             <tr>
-                <th scope="row">June 2021 to present</th>
+                <th scope="row">June 2021 to December 2022</th>
                 <td>Contributing to the European Commission funded project <a href="https://hexa-x.eu/">Hexa-X</a> on integrating AI into networks, in cooperation with Nokia, Ericsson, and other key partners</td>
                 </tr>
                 <tr>
-                <th scope="row">March 2021 to present</th>
+                <th scope="row">March 2021 to December 2022</th>
                 <td>Leading the BMBF funded project <a href="https://softwarecampus.de/en/project/net-bliss-in-network-blind-source-separation-enabled-acoustic-anomaly-detection-for-ultra-reliable-and-low-latency-communications-applications/">Net-BliSS</a> on In-network Computing for time-sensitive industrial applications, in cooperation with Huawei Munich Research Center
                     <ul>
                     <li>Creating project proposal, including research subjects, work plan, manpower, and budget</li>

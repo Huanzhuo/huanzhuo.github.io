@@ -12,6 +12,14 @@ nav_order: 3
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <tr>
+        <th scope="row">November 2022</th>
+        <td>Participating in the training workshop "Insights Discovery" by Merck KGaA</td>
+      </tr>
+      <tr>
+        <th scope="row">November 2022</th>
+        <td>Presentation on IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), Malé, Maldives</td>
+      </tr>
+      <tr>
         <th scope="row">October 2022</th>
         <td>Participating in the training workshop "Business Innovation in Optics & Photonics" by Zeiss</td>
       </tr>
