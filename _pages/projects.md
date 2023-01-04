@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research projects during my Junior Researcher period.
+# description: Research projects during my Junior Researcher period.
 nav: true
 nav_order: 1
 # display_categories: [work, fun]
@@ -14,7 +14,7 @@ horizontal: false
         <table class="table table-sm table-borderless">
             <tr>
                 <th scope="row">September 2022 to present</th>
-                <td>Contributing to the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/6g-anna">6G-Anna</a> on In-network Computing for 6G systems, in cooperation with Nokia, Ericsson, and other key partners
+                <td>Contributing to the BMBF funded project <a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/6g-anna">6G-ANNA</a> on In-network Computing for 6G systems, in cooperation with Nokia, Ericsson, and other key partners
                     <ul>
                     <li>Contributing to the topic on In-network Computing for 6G systems</li>
                     </ul>

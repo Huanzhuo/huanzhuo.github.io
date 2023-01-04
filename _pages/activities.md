@@ -2,7 +2,7 @@
 layout: page
 permalink: /activities/
 title: Activity
-description: Research activities during my Junior Researcher period.
+# description: Research activities during my Junior Researcher period.
 nav: true
 nav_order: 3
 ---
@@ -11,6 +11,10 @@ nav_order: 3
 <div class="news">
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row">January 2023</th>
+        <td>Joining Nokia Standard as Reseach Engineer, Munich, Germany</td>
+      </tr>
       <tr>
         <th scope="row">November 2022</th>
         <td>Participating in the training workshop "Insights Discovery" by Merck KGaA</td>
