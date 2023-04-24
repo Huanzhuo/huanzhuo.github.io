@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: 
     <p>Huanzhuo Wu</p>
-    <p>Dresden, Germany</p>
+    <p>Munich, Germany</p>
     <p>Contact via
       <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -21,12 +21,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Huanzhuo Wu. I am a research engineer at Nokia in Munich, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
-My particular research interests are In-network Computing, Software Defined Networks (SDN), and Algorithm Optimization in 5G and beyond, with more than 20 peer-reviewed <a href="/publications/">publications</a>.
+My name is Huanzhuo Wu. I am a researcher at Nokia in Munich, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
+My particular research interests are Mobile Network Architecture, In-network Computing, and Software Defined Networks (SDN) in 5G-Advance and 6G, with numerous peer-reviewed <a href="/publications/">publications</a>.
 In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
-I pursued my Ph.D. in telecommunications engineering at ComNets, TU Dresden from 2017 to 2022, with a defense date currently awaited. 
+I pursued my Ph.D. in telecommunications engineering at ComNets, TU Dresden from 2017 to 2022. 
 Prior to that, I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
 During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi China in 2016. 
 In 2011, I received my Bachelor's degree in Computer Science from Chang'an University, China.
