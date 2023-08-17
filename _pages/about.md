@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: 
-    <p>Huanzhuo Wu</p>
-    <p>Munich, Germany</p>
+    <p>Huanzhuo Wu.</p>
+    <p>Munich, Germany.</p>
     <p>Contact via
       <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -145,6 +145,9 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
+  <li>Reviewer IEEE Network Magazine</li>
+  <li>Reviewer IEEE Wireless Communications Magazine</li>
+  <li>Reviewer IEEE Conference on Network Function Virtualization and Software Defined Networks 2023</li>
   <li>Reviewer IEEE European Wireless 2022</li>
   <li>Reviewer IEEE Internet of Things Journal</li>
   <li>Reviewer International Conference on Networks, Communication and Information Technology</li>

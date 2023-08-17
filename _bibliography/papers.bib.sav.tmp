@@ -342,35 +342,4 @@
 @InProceedings{Zhan2205:Deep,
   author    = {Zhang, Jiajing and Wu, Huanzhuo and Bassoli, Riccardo and Bonetto, Riccardo and Fitzek, Frank H. P.},
   booktitle = {2022 IEEE International Conference on Communications (ICC): Green Communication Systems and Networks Symposium (IEEE ICC'22 - GCSN Symposium)},
-  title     = {Deep Learning-based Energy Optimization for Electric Vehicles Integrated Smart Micro Grid},
-  address   = {Seoul, Korea (South)},
-  groups    = {my_paper},
-  month     = may,
-  year      = {2022},
-  abbr={Conf. ICC},
-}
-
-@InProceedings{Zhan2206:Evaluation,
-  author    = {Zhang, Jiajing and Wu, Huanzhuo and Shen, Shiwei and Bassoli, Riccardo and Nguyen, Giang T. and Fitzek, Frank H. P.},
-  booktitle = {2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON) (MELECON 2022)},
-  title     = {Evaluation of an Intelligent Task Scheduling Algorithm for {6G} {3D} Networking},
-  pubstate  = {2022-06-13},
-  address   = {Palermo, Italy},
-  groups    = {my_paper},
-  month     = jun,
-  year      = {2022},
-  abbr={Conf. MELECON},
-}
-
-@Article{rezwan2023compression,
-  author  = {Rezwan, Sifat and Wu, Huanzhuo and Cabrera, Juan A. and Nguyen, Giang T. and Reisslein, Martin and Fitzek, Frank H. P.},
-  title   = {cXR+ Voxel-Based Semantic Compression for Networked Immersion},
-  doi     = {10.1109/ACCESS.2023.3279503},
-  pages   = {52763-52777},
-  volume  = {11},
-  abbr    = {Access cXR},
-  journal = {IEEE Access},
-  year    = {2023},
-}
-
-@Comment{jabref-meta: databaseType:biblatex;}
+  title     = {Deep Learning-based Energy Optimization for Electric Vehicles Integra
