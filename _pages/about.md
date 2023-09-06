@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 My name is Huanzhuo Wu. I am a researcher at Nokia in Munich, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
-My particular research interests are Mobile Network Architecture, In-network Computing, and Software Defined Networks (SDN) in 5G-Advance and 6G, with numerous peer-reviewed <a href="/publications/">publications</a>.
+My particular research interests are Mobile Network Architecture, In-network Computing/Edge Computing, and Software Defined Networks (SDN) in 5G-Advanced and 6G, with numerous peer-reviewed <a href="/publications/">publications</a>.
 In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies.
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
@@ -44,7 +44,8 @@ In addition to this website, my coding projects and publications can also be fou
       <th scope="row">January 2023 to present</th>
       <td>Research Engineer at Nokia
         <ul>
-          <li>6G related programs</li>
+          <li>6G related reseach</li>
+          <li>3GPP standards</li>
         </ul>
       </td>
     </tr>
@@ -87,11 +88,11 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="table-responsive">
   <table class="table table-sm table-borderless">
     <tr>
-      <th scope="row">February 2017 to present</th>
+      <th scope="row">February 2017 to April 2022</th>
       <td>Ph.D. in Electrical Engineering at TU Dresden, Germany
         <ul>
           <li>Topic: In-network Audio Processing for Low-latency Industrial Applications</li>
-          <li>Grad Year: Expected October 2022</li>
+          <li>Grad Year: 2023</li>
         </ul>
       </td>
     </tr>
@@ -145,11 +146,13 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
-  <li>Reviewer IEEE Network Magazine</li>
-  <li>Reviewer IEEE Wireless Communications Magazine</li>
+  <li>Reviewer IEEE Network Magazine Special Issue Tactile Internet for a Cyber-Physical Continuum</li>
+  <li>Reviewer IEEE Wireless Communications Magazine Open Call Article</li>
+  <li>Reviewer IEEE Internet of Things Journal 2023 Regular Article</li>
+  <li>Reviewer European Wireless 2023</li>
   <li>Reviewer IEEE Conference on Network Function Virtualization and Software Defined Networks 2023</li>
-  <li>Reviewer IEEE European Wireless 2022</li>
-  <li>Reviewer IEEE Internet of Things Journal</li>
+  <li>Reviewer European Wireless 2022</li>
+  <li>Reviewer IEEE Internet of Things Journal 2022 Regular Article</li>
   <li>Reviewer International Conference on Networks, Communication and Information Technology</li>
   <li>Reviewer IEEE Transactions on Very Large Scale Integration Systems</li>
   <li>Reviewer IEEE European Wireless 2021</li>
