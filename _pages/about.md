@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: 
-    <p>Huanzhuo Wu.</p>
-    <p>Munich, Germany.</p>
+    <p>Dr. Huanzhuo Wu</p>
+    <p>Munich, Germany</p>
     <p>Contact via
       <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -21,9 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Huanzhuo Wu. I am a researcher at Nokia in Munich, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
-My particular research interests are Mobile Network Architecture, In-network Computing/Edge Computing, and Software Defined Networks (SDN) in 5G-Advanced and 6G, with numerous peer-reviewed <a href="/publications/">publications</a>.
-In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies.
+My name is Huanzhuo Wu. I am a telecommunication researcher at Nokia in Munich, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
+My particular research interests are Mobile Network Architecture and In-network Computing/Edge Computing in 5G-Advanced and 6G, with numerous peer-reviewed <a href="/publications/">publications</a>.
+<!-- In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies. -->
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
 I pursued my Ph.D. in telecommunications engineering at ComNets, TU Dresden from 2017 to 2022. 
@@ -42,9 +42,10 @@ In addition to this website, my coding projects and publications can also be fou
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">January 2023 to present</th>
-      <td>Research Engineer at Nokia
+      <td>Senior Research Specialist at Nokia
         <ul>
-          <li>6G related reseach</li>
+          <li>5G-Advanced and 6G related research</li>
+          <li>Core network architecture design</li>
           <li>3GPP standards</li>
         </ul>
       </td>

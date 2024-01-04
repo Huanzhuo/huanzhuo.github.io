@@ -13,7 +13,7 @@ nav_order: 3
     <table class="table table-sm table-borderless">
       <tr>
         <th scope="row">January 2023</th>
-        <td>Joining Nokia Standard as Reseach Engineer, Munich, Germany</td>
+        <td>Joining Nokia Standard as Senior Research Specialist, Munich, Germany</td>
       </tr>
       <tr>
         <th scope="row">November 2022</th>
