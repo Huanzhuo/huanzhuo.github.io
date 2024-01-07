@@ -46,7 +46,7 @@ In addition to this website, my coding projects and publications can also be fou
         <ul>
           <li>5G-Advanced and 6G related research</li>
           <li>Core network architecture design</li>
-          <li>3GPP standards</li>
+          <li>3GPP standardization</li>
         </ul>
       </td>
     </tr>
