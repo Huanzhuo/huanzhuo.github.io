@@ -168,12 +168,11 @@
   url          = {https://sdn.ieee.org/newsletter/january-2018/network-slicing-for-conditional-monitoring-in-the-industrial-internet-of-things},
   organization = {IEEE Software Defined Networks, IEEE Softwarization, Jan. 2018},
   pubstate     = {published},
+  abbr         = {Newsletter},
   groups       = {my_paper},
+  html         = {https://sdn.ieee.org/newsletter/january-2018/network-slicing-for-conditional-monitoring-in-the-industrial-internet-of-things},
   tppubtype    = {online},
   year         = {2018},
-  html = {https://sdn.ieee.org/newsletter/january-2018/network-slicing-for-conditional-monitoring-in-the-industrial-internet-of-things},
-  abbr={Newsletter},
-  selected={true}
 }
 
 @InProceedings{Wu2201:Demonstration,

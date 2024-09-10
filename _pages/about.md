@@ -21,18 +21,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Huanzhuo Wu. I am a telecommunication researcher at Nokia in Munich, after finishing my research position at the Deutsche Telekom Chair of Communication Networks (ComNets), TU Dresden, Germany. 
-My particular research interests are Mobile Network Architecture and In-network Computing/Edge Computing in 5G-Advanced and 6G, with numerous peer-reviewed <a href="/publications/">publications</a>.
+My name is Huanzhuo Wu, and I am currently a telecommunications researcher at Nokia in Munich, Germany. Prior to this, I held a research position at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. My primary research interests lie in Mobile Network Architecture and In-Network/Edge Computing, with a focus on 5G-Advanced and 6G technologies, with numerous peer-reviewed <a href="/publications/">publications</a>.
 <!-- In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies. -->
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
-I pursued my Ph.D. in telecommunications engineering at ComNets, TU Dresden from 2017 to 2022. 
-Prior to that, I hold a Master of Science in Computer Science at TU Dresden with honors in 2016. 
-During my studies, I worked as a student assistant at TU Dresden and completed internships at BMW AG in 2015 and Audi China in 2016. 
-In 2011, I received my Bachelor's degree in Computer Science from Chang'an University, China.
+I completed my Ph.D. in Telecommunications Engineering at ComNets, TU Dresden, from 2017 to 2022. Before that, I earned a Master of Science in Computer Science with honors from TU Dresden in 2016. During my studies, I gained practical experience through internships at BMW AG (2015) and Audi China (2016), and worked as a student assistant at TU Dresden. I received my Bachelor’s degree in Computer Science from Chang’an University, China, in 2011.
 
-For you to take along with from this visit, here is my <a href="/cv/">CV</a>.
-In addition to this website, my coding projects and publications can also be found on  <a href="https://github.com/huanzhuo">Github<i class="fab fa-github"></i></a> and <a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar<i class="ai ai-google-scholar"></i></a>, and I am available for contact via <a href="mailto:wuhuanzhuo@gmail.com">email<i class="fas fa-envelope"></i></a> and on <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn<i class="fab fa-linkedin"></i></a>.
+Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar<i class="ai ai-google-scholar"></i></a> profile for my publications. You can also reach me via <a href="mailto:wuhuanzhuo@gmail.com">email<i class="fas fa-envelope"></i></a> or connect with me on <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn<i class="fab fa-linkedin"></i></a>.
 
 <br>
 <br>
@@ -93,7 +88,7 @@ In addition to this website, my coding projects and publications can also be fou
       <td>Ph.D. in Electrical Engineering at TU Dresden, Germany
         <ul>
           <li>Topic: In-network Audio Processing for Low-latency Industrial Applications</li>
-          <li>Grad Year: 2023</li>
+          <li>Final Grade: magna cum laude</li>
         </ul>
       </td>
     </tr>
@@ -147,16 +142,17 @@ In addition to this website, my coding projects and publications can also be fou
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
-  <li>Reviewer IEEE Network Magazine Special Issue Tactile Internet for a Cyber-Physical Continuum</li>
-  <li>Reviewer IEEE Wireless Communications Magazine Open Call Article</li>
-  <li>Reviewer IEEE Internet of Things Journal 2023 Regular Article</li>
+  <li>Reviewer IEEE Conference on Network Functions Virtualization and Software-Defined Networking (IEEE NFV-SDN 2024) Conference</li>
+  <li>Reviewer IEEE Network Magazine, Special Issue Tactile Internet for a Cyber-Physical Continuum</li>
+  <li>Reviewer IEEE Wireless Communications Magazine, Open Call Article</li>
+  <li>Reviewer IEEE Internet of Things Journal, Regular Article</li>
   <li>Reviewer European Wireless 2023</li>
-  <li>Reviewer IEEE Conference on Network Function Virtualization and Software Defined Networks 2023</li>
+  <li>Reviewer IEEE Conference on Network Functions Virtualization and Software-Defined Networking (IEEE NFV-SDN 2023) Conference</li>
   <li>Reviewer European Wireless 2022</li>
-  <li>Reviewer IEEE Internet of Things Journal 2022 Regular Article</li>
+  <li>Reviewer IEEE Internet of Things Journal, Regular Article</li>
   <li>Reviewer International Conference on Networks, Communication and Information Technology</li>
   <li>Reviewer IEEE Transactions on Very Large Scale Integration Systems</li>
   <li>Reviewer IEEE European Wireless 2021</li>
-  <li>Reviewer IEEE GlobeCom 2020</li>
+  <li>Reviewer IEEE Global Communications Conference (GLOBECOM 2020)</li>
 </ul>
 </div>
