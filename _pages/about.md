@@ -142,6 +142,10 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
+  <li>Reviewer IEEE Communications Standards Magazine</li>
+  <li>Reviewer Transactions on Mobile Computing</li>
+  <li>Reviewer Transactions on Services Computing</li>
+  <li>Reviewer The Journal of Supercomuting</li>
   <li>Reviewer IEEE Conference on Network Functions Virtualization and Software-Defined Networking (IEEE NFV-SDN 2024) Conference</li>
   <li>Reviewer IEEE Network Magazine, Special Issue Tactile Internet for a Cyber-Physical Continuum</li>
   <li>Reviewer IEEE Wireless Communications Magazine, Open Call Article</li>
