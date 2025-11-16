@@ -1,13 +1,10 @@
 ---
-layout: page
-title: Vitae
+layout: page # cv
 permalink: /cv/
-description:
+title: Vitae
 nav: true
 nav_order: 5
 ---
-
-<!-- ![CV of Huanzhuo Wu](assets/pdf/CV_HuanzhuoWu.pdf){: width="250" } -->
 
 To download my Curriculum Vitae in PDF format, please click [here](/assets/pdf/CV_Huanzhuo_Wu.pdf).
 

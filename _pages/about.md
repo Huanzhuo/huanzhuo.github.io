@@ -7,7 +7,7 @@ subtitle: Telecommunication Researcher
 profile:
   align: right
   image: prof_pic.jpg
-  address: 
+  more_info:
     <p>Dr. Huanzhuo Wu</p>
     <p>Munich, Germany</p>
     <p>Contact via
