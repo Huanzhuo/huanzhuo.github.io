@@ -1,11 +1,11 @@
 ---
-layout: cv
+layout: page # cv
 permalink: /cv/
-title: cv
+title: Vitae
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+To download my Curriculum Vitae in PDF format, please click [here](/assets/pdf/CV_Huanzhuo_Wu.pdf).
+
+<object data="/assets/pdf/CV_Huanzhuo_Wu.pdf" width="1000" height="1000" type='application/pdf'></object>
